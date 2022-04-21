@@ -148,6 +148,5 @@ public class GFG2{
 		frame.getContentPane().add(tes);
 
 		frame.setVisible(true);
-	/** WONT RUN ?????????*/
 	}
 }
